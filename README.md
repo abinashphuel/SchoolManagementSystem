@@ -1,2 +1,2 @@
 # SchoolManagementSystem
-School Management System that manages the students, class and subjects of the school. 
+School Management System manages the students, class and subjects of the school. 
